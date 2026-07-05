@@ -1,6 +1,6 @@
 # A Browser Game on AI Evals
 
-I've wanted to make evals more accessible for a while, so I built a [browser game](https://learnevals.ai/) on the topic.
+I've wanted to make evals more accessible for a while, so I built a [browser game](https://learnevals.ai/?utm_source=github) on the topic.
 
 <img width="1000" height="563" alt="this-robot-needs-evals" src="https://github.com/user-attachments/assets/54d139b7-cc79-4b7e-affb-7d5cf7455708" />
 
